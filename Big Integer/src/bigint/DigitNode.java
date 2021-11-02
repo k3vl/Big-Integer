@@ -3,7 +3,7 @@ package bigint;
 /**
  * This class encapsulates a linked list for a digit of a big integer.
  * 
- * @author Sesh Venugopal (RU NB CS 112)
+ *
  *
  */
 public class DigitNode {
